@@ -2,7 +2,7 @@
     
 @font-face {
     font-family: 'Montserrat';
-    src: url("/public/fonts/Montserrat-VariableFont_wght.woff2") format('woff2');
+    src: url("/assets/fonts/Montserrat-Variable.woff2") format('woff2');
     font-weight: 500 700;
     font-style: normal;
     font-display: swap;
@@ -10,7 +10,7 @@
 
 @font-face {
     font-family: 'Fraunces';
-    src: url("/public/fonts/Fraunces-VariableFont_SOFT,WONK,opsz,wght.woff2") format('woff2');
+    src: url("/assets/fonts/Fraunces-Variable.woff2") format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;

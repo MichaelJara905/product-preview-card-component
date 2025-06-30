@@ -27,12 +27,12 @@ The project served as a practice to improve my CSS utility usage, HTML semantics
 
 ### 📱 Mobile view
 
-![](./assets/images/image-product-mobile.jpg)
+![](./assets/design/mobile-design.jpg)
 
 ## 🌐 Live Preview
 
-- 🔗 **Live web page**: [https://michaeljara905.github.io/Recipe-page-main/](https://michaeljara905.github.io/Recipe-page-main/)
-- 💻 **Source code**: [https://github.com/MichaelJara905/Recipe-page-main.git](https://github.com/MichaelJara905/Recipe-page-main.git)
+- 🔗 **Live web page**: [https://michaeljara905.github.io/product-preview-card-component/](https://michaeljara905.github.io/product-preview-card-component/)
+- 💻 **Source code**: [https://github.com/MichaelJara905/product-preview-card-component.git](https://github.com/MichaelJara905/product-preview-card-component.git)
 
 
 ## 🛠️ Technology Stack
